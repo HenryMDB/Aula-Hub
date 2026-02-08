@@ -1,0 +1,57 @@
+.keyboard-right-bar .keyboard-bar-item.all-center {
+  display: none !important;
+}
+
+.keyboard-expand-key
+  .keyboard-expand-item
+  .keyboard-expand-item-content[data-v-c71d289e],
+.machine-list-container .login-btn[data-v-ac7addf4] {
+  /* --- Code cũ của bạn --- */
+  white-space: normal !important;
+  text-overflow: clip !important;
+  height: auto !important;
+  overflow: visible !important;
+
+  /* --- Code MỚI để căn giữa --- */
+
+  /* 1. Đổi sang flex để dễ căn chỉnh */
+  display: inline-flex !important;
+
+  /* 2. Căn giữa theo chiều ngang (trục chính) */
+  justify-content: center !important;
+
+  /* 3. Căn giữa theo chiều dọc (trục phụ) */
+  align-items: center !important;
+
+  /* 4. Căn giữa văn bản trong trường hợp có nhiều dòng */
+  text-align: center !important;
+}
+.keyboard-container
+  .keyboard-content
+  .row-item
+  .row-child-item[data-v-eb6e6536] {
+  font-size: 0.66rem;
+}
+.language-popover .language-content[data-v-fc8448a8] {
+  font-size: 14px;
+}
+/* .keyboard-container
+  .keyboard-content
+  .keyboard-row
+  .is-selected-key[data-v-eb6e6536] {
+  background-color: #141111b7 !important;
+} */
+.text-hidden[data-v-6004b9a9]{
+  overflow:visible !important;
+}
+
+.heigh-video-content .video-play-box .socd-item-name[data-v-aff83af1]{
+    white-space: normal !important;
+  text-overflow: clip !important;
+  overflow: visible !important;
+  display: inline-flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+  font-size: 14px !important;
+}
