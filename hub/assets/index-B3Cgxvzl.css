@@ -51215,14 +51215,14 @@ body #app {
 }
 @font-face {
   font-family: OPPOSans4;
-  src: url(OPPOSans4.0-BW-oUVah.ttf);
+  src: url(fonts/OPPOSans4.0-BW-oUVah.ttf);
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: AaWeiLaiHei95-2;
-  src: url(AaWeiLaiHei95-2-CS_LKNSg.ttf);
+  src: url(fonts/AaWeiLaiHei95-2-CS_LKNSg.ttf);
   font-weight: 400;
   font-style: normal;
   font-display: swap;
