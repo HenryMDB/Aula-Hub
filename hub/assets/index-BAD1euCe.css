@@ -51215,14 +51215,14 @@ body #app {
 }
 @font-face {
   font-family: OPPOSans4;
-  src: url(/hub/assets/fonts/DroidSansChinese.ttf);
+  src: url(fonts/DroidSansChinese.ttf);
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: AaWeiLaiHei95-2;
-  src: url(/hub/assets/fonts/AaWeiLaiHei95-2-CS_LKNSg.ttf);
+  src: url(fonts/AaWeiLaiHei95-2-CS_LKNSg.ttf);
   font-weight: 400;
   font-style: normal;
   font-display: swap;
