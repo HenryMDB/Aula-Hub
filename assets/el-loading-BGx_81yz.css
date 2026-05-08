@@ -4,9 +4,11 @@
 }
 .el-loading-parent--relative {
   position: relative !important;
+  display: none !important;
 }
 .el-loading-parent--hidden {
   overflow: hidden !important;
+  display: none !important;
 }
 .el-loading-mask {
   background-color: var(--el-mask-color);
@@ -39,6 +41,7 @@
   text-align: center;
   top: 50%;
   width: 100%;
+  display: none !important;
 }
 .el-loading-spinner .el-loading-text {
   color: var(--el-color-primary);
