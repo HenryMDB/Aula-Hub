@@ -7229,14 +7229,14 @@ input::-webkit-inner-spin-button {
   background: var(--bg) !important;
   border: none !important;
 }
-/* .el-loading-mask {
+.el-loading-mask {
   background-color: var(--loading-mask) !important;
   -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);
 }
 .el-loading-mask .el-loading-spinner .path {
   stroke: var(--theme-color);
-} */
+}
 .el-color-footer__link-btn {
   display: none !important;
 }
