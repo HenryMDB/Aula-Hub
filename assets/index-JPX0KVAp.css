@@ -7233,9 +7233,11 @@ input::-webkit-inner-spin-button {
   background-color: var(--loading-mask) !important;
   -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);
+  display: none !important;
 }
 .el-loading-mask .el-loading-spinner .path {
   stroke: var(--theme-color);
+  display: none !important;
 }
 .el-color-footer__link-btn {
   display: none !important;
