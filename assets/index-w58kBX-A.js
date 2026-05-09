@@ -48867,7 +48867,7 @@ Tất cả cấu hình phím và chức năng sẽ được khôi phục về m�
       btn2: "Tiếp",
       text1: "Cài đặt sẵn của người chơi chuyên nghiệp",
       text2: "Cài đặt sẵn của cộng đồng",
-      text3: "Áp dụng nhanh",
+      text3: "Su Dung",
     },
     keySet: {
       text1: "Thông báo",
