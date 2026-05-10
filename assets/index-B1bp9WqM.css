@@ -288,7 +288,9 @@
   backdrop-filter: blur(4px);
   border-radius: 0.5rem;
   cursor: pointer;
-  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+  transition:
+    background-color 0.15s ease-in-out,
+    color 0.15s ease-in-out;
 }
 .device-container .key-item[data-v-0d10953e]:hover {
   border: 0.125rem solid var(--active-bg);
@@ -547,7 +549,7 @@
   .master-control
   .master-type
   .master-type-item[data-v-0d10953e] {
-  width: 5.5625rem;
+  width: 7.5625rem;
   height: 2.25rem;
   border-radius: 0.25rem;
   border: 0.0625rem solid var(--auto-bg);
@@ -754,7 +756,9 @@
   transform: scaleY(0);
   text-align: center;
   opacity: 0;
-  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  transition:
+    transform 0.3s ease-in-out,
+    opacity 0.3s ease-in-out;
 }
 .master-container
   .master-content
